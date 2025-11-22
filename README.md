@@ -34,6 +34,12 @@ KPIs: Pass Rate, Fail Rate, Total Tests, Automation %, Avg Execution Time
 
 4.Slicers for filtering
 
+<img width="1460" height="757" alt="Screenshot 2025-11-22 194123" src="https://github.com/user-attachments/assets/c271b78b-45aa-4193-abe7-80e4ba6a1550" />
+
+
+
+
+
 2️⃣ **Defect Analysis**
 
 1.Total defects, critical/major/minor defects
@@ -43,6 +49,10 @@ KPIs: Pass Rate, Fail Rate, Total Tests, Automation %, Avg Execution Time
 3.Severity distribution (donut chart)
 
 4.Detailed defect table with conditional formatting
+<img width="1410" height="817" alt="Screenshot 2025-11-22 194309" src="https://github.com/user-attachments/assets/c220ef26-a332-4b91-927d-932f2c7b48f0" />
+
+
+
 
 3️⃣**Coverage and efficiency**
 
@@ -53,6 +63,10 @@ KPIs: Pass Rate, Fail Rate, Total Tests, Automation %, Avg Execution Time
 3.Execution time trends
 
 4.Module-wise efficiency table
+<img width="1422" height="818" alt="Screenshot 2025-11-22 194401" src="https://github.com/user-attachments/assets/bc94d1c0-f0ea-4d52-b367-78a23d170833" />
+
+
+
 
 🛠 **Tech Stack**
 
